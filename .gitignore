@@ -1,0 +1,17 @@
+# Model files
+*.pkl
+*.h5
+*.keras
+*.joblib
+
+# Notebook & Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
